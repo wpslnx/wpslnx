@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![77d4e5d40fdaeb321eadd5cb855cb685](https://github.com/user-attachments/assets/08a60e6b-9f3f-4e56-9d15-46b711e99628)
+
 <!--
 **wpslnx/wpslnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
